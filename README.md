@@ -52,3 +52,11 @@ The course I am enjoying and have downloaded and explored metasploit and meta go
 The CMS section I felt I got to get a very basic feel for joomla including creating articles, menus and modules.
 
 Learning insights I need to focus more next week on the UI side of the website.
+
+
+(Week) 3
+(Learning Activities) Wordpress, CYSA, Maltego, port scanning network mapping.
+(Resources/Links) https://stackskills.com/, wordpress.com, https://www.maltego.com/
+(Estimated Hours) 3.5hours
+(Content Insights) I learn a lot quicker using the software with set goals \ target rather then watching videos.
+(Career/Employability/Learning Insights) Cyber securitywithin the OT  industry.
