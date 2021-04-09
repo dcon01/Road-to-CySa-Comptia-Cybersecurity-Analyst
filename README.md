@@ -60,3 +60,20 @@ Learning insights I need to focus more next week on the UI side of the website.
 (Estimated Hours) 3.5hours
 (Content Insights) I learn a lot quicker using the software with set goals \ target rather then watching videos.
 (Career/Employability/Learning Insights) Cyber securitywithin the OT  industry.
+
+
+(Week) 4
+
+(Learning Activities) Wordpress, local deployments, easy php webserver, win dev os 2102, oricle virtualbox, Nmap. 
+
+(Resources/Links) https://stackskills.com/, wordpress.com,https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/, https://nmap.org/
+
+(Estimated Hours) 5hours 
+
+(Content Insights) Nmap is a very powerful tool, I used a lot of different local webservers all are suprisingly easy to use. 
+
+(Career/Employability/Learning Insights) focusing on cyber securitywithin the OT industry
+
+
+
+
