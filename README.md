@@ -64,7 +64,7 @@ Learning insights I need to focus more next week on the UI side of the website.
 
 (Week) 4
 
-(Learning Activities) Wordpress, local deployments, easy php webserver, win dev os 2102, oricle virtualbox, Nmap. 
+(Learning Activities) Wordpress, local deployments, easy php webserver, usb webserver, xampp, php my admin, win dev os 2102, oricle virtualbox, Nmap. 
 
 (Resources/Links) https://stackskills.com/, wordpress.com,https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/, https://nmap.org/
 
